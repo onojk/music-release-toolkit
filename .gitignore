@@ -1,0 +1,4 @@
+old/
+*.wav
+playlist.m3u
+.DS_Store
